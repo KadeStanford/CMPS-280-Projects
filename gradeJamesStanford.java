@@ -148,7 +148,3 @@ public static double lowestScore(double lowestScore, int[] examGrades){
 
 }// End Program
 
-//FIX LOG:
-
-//!ADD A WAY FOR THE AVERAGES TO BE 100% IF THERE ARE NO VALUES 
-
